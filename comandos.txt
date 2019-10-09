@@ -1,0 +1,7 @@
+TERMINAL:
+
+Ir a: Desarrollo/mongoDB/bin, ejecutar: "sudo ./mongod" en un terminal y "sudo ./mongo" en otro. SIEMPRE DEJARLOS ABIERTOS
+
+Conectar y acceder a la DB en Robo 3T
+
+Ejecutar en "/backend" el comando "npm start" 
